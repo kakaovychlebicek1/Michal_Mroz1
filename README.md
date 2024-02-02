@@ -1,4 +1,4 @@
-ZAD.1
+ZAD.1-
 Parametry :
 Beta = 1 | Gamma = 0.1 | Sigma = 1
 ![image](https://github.com/kakaovychlebicek1/Michal_Mroz1/assets/157245284/af756dcd-ae7f-480c-bbd2-dd432cdc884f)
